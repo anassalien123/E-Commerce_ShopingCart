@@ -42,7 +42,7 @@ The JavaScript file enables interactivity:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-shopping-cart.git
+   https://github.com/anassalien123/E-Commerce_ShopingCart/
    ```
 2. Open `index.html` in any modern browser to view and interact with the application.
 
