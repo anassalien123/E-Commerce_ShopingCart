@@ -49,7 +49,7 @@ The JavaScript file enables interactivity:
 ## Preview
 Here’s how the shopping cart looks:
 
-![Preview](path-to-screenshot)![image](https://github.com/user-attachments/assets/fcdad9e2-adb0-480d-8f81-5fdce80caf78)
+![image](https://github.com/user-attachments/assets/fcdad9e2-adb0-480d-8f81-5fdce80caf78)
 
 
 ## Technologies Used
